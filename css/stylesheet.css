@@ -1,0 +1,37 @@
+p {
+    margin-bottom: 2em;
+    text-indent: 50px;
+    border-style: dotted;
+    border-color: #00BFFF;
+}
+
+.biography {
+    font-family: 'nunito-sans', sans-serif;
+}
+
+.achievements {
+    font-family: 'quicksand', sans-serif;
+    background-color: rgba(5, 207, 140, 0.405);
+}
+
+footer {
+    font-size: 0.75em;
+    border-bottom-style: solid;
+    border-color: #00BFFF;
+    border-width: 2em;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkgrey;
+}
+
+h2 {
+    color: rgb(0, 185, 111);
+    font-family: 'quicksand', sans-serif;
+}
+
+strong {
+    font-size: 1.5em;
+}
